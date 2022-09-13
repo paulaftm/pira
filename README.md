@@ -1,4 +1,4 @@
-# pitanga
+# pira
 
 Material para o Novotec - Curso Técnico de Informática para Internet.
 
